@@ -24,6 +24,7 @@ tar -C /usr/local/ -xvf ukrfetch-v1.0.0.tar.gz
 ```bash
 # add the following at the end of your ~/.bashrc
 PATH=$PATH:/usr/local/ukrfetch-v1.0.0
+# add the following if you want to execute it every time you start terminal.
 ukrfetch
 ```
 ```bash
