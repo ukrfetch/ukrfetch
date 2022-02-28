@@ -6,4 +6,24 @@
 
 ## Install
 
+extract and install file
+```bash
+tar -C /usr/local/ -xvf ukrfetch-v1.0.0.tar.gz
+```
+
+edit your .bashrc
+```bash
+# add the following at the end of your ~/.bashrc
+PATH=$PATH:/usr/local/ukrfetch-v1.0.0
+ukrfetch
+```
+
+```bash
+. ~/.bashrc
+```
+
 ## Usage
+
+```bash
+ukrfetch
+```
