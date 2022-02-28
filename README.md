@@ -4,7 +4,9 @@
 
 <img src="https://user-images.githubusercontent.com/100527338/155972141-66054d3c-eb5f-4c4b-9d92-5cb2ee90c3ad.png" width="540px" alt="fetch tool image">
 
-This simple tool is inspired by [neofetch](https://github.com/dylanaraps/neofetch).
+This simple tool is inspired by [neofetch](https://github.com/dylanaraps/neofetch). 
+
+This tool can use only linux.
 
 *Deep respect to everyone who fight for free at Ukraine.*
 
