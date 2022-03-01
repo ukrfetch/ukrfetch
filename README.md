@@ -6,7 +6,7 @@
 
 This simple tool is inspired by [neofetch](https://github.com/dylanaraps/neofetch). 
 
-This tool can use only linux.
+This tool can use only for linux.
 
 *Deep respect to everyone who fight for free at Ukraine.*
 
