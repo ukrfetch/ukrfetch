@@ -10,7 +10,28 @@ This tool can use only for linux.
 
 *Deep respect to everyone who fight for free at Ukraine.*
 
-## Install
+## Install(source build)
+
+required: go >= 1.17
+
+1. clone repositry
+```bash
+git clone https://github.com/ukrfetch/ukrfetch.git
+```
+
+2. build project
+```bash
+go build -o ./bin/ukrfetch fetch.go
+```
+
+3. if needed, move binary file and ADD $PATH
+```bash
+# example
+mv ./bin/ /usr/local/ukrfetch/
+PATH=$PATH:/usr/local/ukrfetch
+```
+
+## Install(download)
 
 1. get release
 ```
